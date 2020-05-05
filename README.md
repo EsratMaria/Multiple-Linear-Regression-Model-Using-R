@@ -1,4 +1,4 @@
-# Multiple-Linear-Regresson-Model-Using-R
+# Multiple-Linear-Regression-Model-Using-R
 
 #### A multiple linear regression model based prediction done on ```suicide``` dataset 
 
